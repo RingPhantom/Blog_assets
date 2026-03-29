@@ -1,2 +1,2 @@
-# Blog_assets
-Someting about the blog.
+# 博客相关文件
+主要作为图床使用，暂时不知道会不会加入其他配置。
